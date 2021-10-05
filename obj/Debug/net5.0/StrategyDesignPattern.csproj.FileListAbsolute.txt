@@ -1,0 +1,16 @@
+D:\KienTrucPM\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.exe
+D:\KienTrucPM\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.deps.json
+D:\KienTrucPM\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.runtimeconfig.json
+D:\KienTrucPM\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.runtimeconfig.dev.json
+D:\KienTrucPM\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.dll
+D:\KienTrucPM\StrategyDesignPattern\bin\Debug\net5.0\ref\StrategyDesignPattern.dll
+D:\KienTrucPM\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.pdb
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.csproj.AssemblyReference.cache
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.AssemblyInfoInputs.cache
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.AssemblyInfo.cs
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.dll
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\ref\StrategyDesignPattern.dll
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.pdb
+D:\KienTrucPM\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.genruntimeconfig.cache
